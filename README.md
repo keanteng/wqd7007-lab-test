@@ -16,7 +16,7 @@ docker pull apache/hive:4.0.1
 docker run -d -p 10000:10000 -p 10002:10002 `
   --env SERVICE_NAME=hiveserver2 `
   --name hive-server `
-  -v "${PWD}:/data" `
+  -v "${PWD}:/keanteng" `
   apache/hive:4.0.1
 ```
 
@@ -28,11 +28,41 @@ cd ..
 cd ..
 
 # view your directory
-ls data2
+ls keanteng
 
 # start hive CLI
 hive
 
 # set the connection
 !connect jdbc:hive2://localhost:10000
+```
+
+## Docker Extra
+
+```bash
+# start the container
+docker start hive-server
+
+# stop the container
+docker stop hive-server
+
+# enter the cli
+docker exec -it hive-server bash
+
+# list all running containers
+docker ps
+```
+## Further Usage
+```bash
+# remove a container
+docker rm hive-server
+
+# prune all stopped containers
+docker container prune
+# remove all unused images
+docker image prune -a
+# remove all unused volumes
+docker volume prune
+# remove build cache
+docker builder prune
 ```
