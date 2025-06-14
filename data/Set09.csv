@@ -1,0 +1,601 @@
+﻿date,state,parliament,gender,population ('000)
+2020/01/01,Negeri Sembilan,P.126 Jelebu,both,64.2
+2020/01/01,Negeri Sembilan,P.126 Jelebu,both,60.747
+2020/01/01,Negeri Sembilan,P.126 Jelebu,both,3.453
+2020/01/01,Negeri Sembilan,P.126 Jelebu,female,29.804
+2020/01/01,Negeri Sembilan,P.126 Jelebu,male,34.396
+2021/01/01,Negeri Sembilan,P.126 Jelebu,both,64.4
+2021/01/01,Negeri Sembilan,P.126 Jelebu,both,61.3
+2021/01/01,Negeri Sembilan,P.126 Jelebu,both,3.1
+2021/01/01,Negeri Sembilan,P.126 Jelebu,female,30
+2021/01/01,Negeri Sembilan,P.126 Jelebu,male,34.4
+2022/01/01,Negeri Sembilan,P.126 Jelebu,both,64.7
+2022/01/01,Negeri Sembilan,P.126 Jelebu,both,61.8
+2022/01/01,Negeri Sembilan,P.126 Jelebu,both,2.8
+2022/01/01,Negeri Sembilan,P.126 Jelebu,female,30.2
+2022/01/01,Negeri Sembilan,P.126 Jelebu,male,34.5
+2020/01/01,Negeri Sembilan,P.127 Jempol,both,108.379
+2020/01/01,Negeri Sembilan,P.127 Jempol,both,103.578
+2020/01/01,Negeri Sembilan,P.127 Jempol,both,4.801
+2020/01/01,Negeri Sembilan,P.127 Jempol,female,52.282
+2020/01/01,Negeri Sembilan,P.127 Jempol,male,56.097
+2021/01/01,Negeri Sembilan,P.127 Jempol,both,108.8
+2021/01/01,Negeri Sembilan,P.127 Jempol,both,104.4
+2021/01/01,Negeri Sembilan,P.127 Jempol,both,4.3
+2021/01/01,Negeri Sembilan,P.127 Jempol,female,52.6
+2021/01/01,Negeri Sembilan,P.127 Jempol,male,56.1
+2022/01/01,Negeri Sembilan,P.127 Jempol,both,109.2
+2022/01/01,Negeri Sembilan,P.127 Jempol,both,105.2
+2022/01/01,Negeri Sembilan,P.127 Jempol,both,4
+2022/01/01,Negeri Sembilan,P.127 Jempol,female,53
+2022/01/01,Negeri Sembilan,P.127 Jempol,male,56.2
+2020/01/01,Negeri Sembilan,P.128 Seremban,both,272.52
+2020/01/01,Negeri Sembilan,P.128 Seremban,both,249.455
+2020/01/01,Negeri Sembilan,P.128 Seremban,both,23.065
+2020/01/01,Negeri Sembilan,P.128 Seremban,female,132.011
+2020/01/01,Negeri Sembilan,P.128 Seremban,male,140.509
+2021/01/01,Negeri Sembilan,P.128 Seremban,both,273.5
+2021/01/01,Negeri Sembilan,P.128 Seremban,both,252.5
+2021/01/01,Negeri Sembilan,P.128 Seremban,both,20.9
+2021/01/01,Negeri Sembilan,P.128 Seremban,female,132.9
+2021/01/01,Negeri Sembilan,P.128 Seremban,male,140.6
+2022/01/01,Negeri Sembilan,P.128 Seremban,both,274.6
+2022/01/01,Negeri Sembilan,P.128 Seremban,both,255.4
+2022/01/01,Negeri Sembilan,P.128 Seremban,both,19.2
+2022/01/01,Negeri Sembilan,P.128 Seremban,female,133.8
+2022/01/01,Negeri Sembilan,P.128 Seremban,male,140.8
+2020/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,71.004
+2020/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,69.21
+2020/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,1.794
+2020/01/01,Negeri Sembilan,P.129 Kuala Pilah,female,34.647
+2020/01/01,Negeri Sembilan,P.129 Kuala Pilah,male,36.357
+2021/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,71.3
+2021/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,69.6
+2021/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,1.6
+2021/01/01,Negeri Sembilan,P.129 Kuala Pilah,female,34.9
+2021/01/01,Negeri Sembilan,P.129 Kuala Pilah,male,36.4
+2022/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,71.5
+2022/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,70.1
+2022/01/01,Negeri Sembilan,P.129 Kuala Pilah,both,1.5
+2022/01/01,Negeri Sembilan,P.129 Kuala Pilah,female,35.1
+2022/01/01,Negeri Sembilan,P.129 Kuala Pilah,male,36.4
+2020/01/01,Negeri Sembilan,P.130 Rasah,both,256.585
+2020/01/01,Negeri Sembilan,P.130 Rasah,both,243.617
+2020/01/01,Negeri Sembilan,P.130 Rasah,both,12.968
+2020/01/01,Negeri Sembilan,P.130 Rasah,female,125.05
+2020/01/01,Negeri Sembilan,P.130 Rasah,male,131.535
+2021/01/01,Negeri Sembilan,P.130 Rasah,both,257.5
+2021/01/01,Negeri Sembilan,P.130 Rasah,both,245.7
+2021/01/01,Negeri Sembilan,P.130 Rasah,both,11.7
+2021/01/01,Negeri Sembilan,P.130 Rasah,female,125.9
+2021/01/01,Negeri Sembilan,P.130 Rasah,male,131.6
+2022/01/01,Negeri Sembilan,P.130 Rasah,both,258.5
+2022/01/01,Negeri Sembilan,P.130 Rasah,both,247.8
+2022/01/01,Negeri Sembilan,P.130 Rasah,both,10.7
+2022/01/01,Negeri Sembilan,P.130 Rasah,female,126.8
+2022/01/01,Negeri Sembilan,P.130 Rasah,male,131.8
+2020/01/01,Negeri Sembilan,P.131 Rembau,both,210.209
+2020/01/01,Negeri Sembilan,P.131 Rembau,both,199.489
+2020/01/01,Negeri Sembilan,P.131 Rembau,both,10.72
+2020/01/01,Negeri Sembilan,P.131 Rembau,female,100.339
+2020/01/01,Negeri Sembilan,P.131 Rembau,male,109.87
+2021/01/01,Negeri Sembilan,P.131 Rembau,both,210.9
+2021/01/01,Negeri Sembilan,P.131 Rembau,both,201.3
+2021/01/01,Negeri Sembilan,P.131 Rembau,both,9.7
+2021/01/01,Negeri Sembilan,P.131 Rembau,female,101
+2021/01/01,Negeri Sembilan,P.131 Rembau,male,109.9
+2022/01/01,Negeri Sembilan,P.131 Rembau,both,211.8
+2022/01/01,Negeri Sembilan,P.131 Rembau,both,203
+2022/01/01,Negeri Sembilan,P.131 Rembau,both,8.8
+2022/01/01,Negeri Sembilan,P.131 Rembau,female,101.7
+2022/01/01,Negeri Sembilan,P.131 Rembau,male,110.1
+2020/01/01,Negeri Sembilan,P.132 Port Dickson,both,128.954
+2020/01/01,Negeri Sembilan,P.132 Port Dickson,both,122.844
+2020/01/01,Negeri Sembilan,P.132 Port Dickson,both,6.11
+2020/01/01,Negeri Sembilan,P.132 Port Dickson,female,60.545
+2020/01/01,Negeri Sembilan,P.132 Port Dickson,male,68.409
+2021/01/01,Negeri Sembilan,P.132 Port Dickson,both,129.4
+2021/01/01,Negeri Sembilan,P.132 Port Dickson,both,123.9
+2021/01/01,Negeri Sembilan,P.132 Port Dickson,both,5.5
+2021/01/01,Negeri Sembilan,P.132 Port Dickson,female,61
+2021/01/01,Negeri Sembilan,P.132 Port Dickson,male,68.4
+2022/01/01,Negeri Sembilan,P.132 Port Dickson,both,129.9
+2022/01/01,Negeri Sembilan,P.132 Port Dickson,both,124.9
+2022/01/01,Negeri Sembilan,P.132 Port Dickson,both,5
+2022/01/01,Negeri Sembilan,P.132 Port Dickson,female,61.4
+2022/01/01,Negeri Sembilan,P.132 Port Dickson,male,68.6
+2020/01/01,Negeri Sembilan,P.133 Tampin,both,88.123
+2020/01/01,Negeri Sembilan,P.133 Tampin,both,83.289
+2020/01/01,Negeri Sembilan,P.133 Tampin,both,4.834
+2020/01/01,Negeri Sembilan,P.133 Tampin,female,41.322
+2020/01/01,Negeri Sembilan,P.133 Tampin,male,46.801
+2021/01/01,Negeri Sembilan,P.133 Tampin,both,88.4
+2021/01/01,Negeri Sembilan,P.133 Tampin,both,84.1
+2021/01/01,Negeri Sembilan,P.133 Tampin,both,4.4
+2021/01/01,Negeri Sembilan,P.133 Tampin,female,41.6
+2021/01/01,Negeri Sembilan,P.133 Tampin,male,46.8
+2022/01/01,Negeri Sembilan,P.133 Tampin,both,88.8
+2022/01/01,Negeri Sembilan,P.133 Tampin,both,84.8
+2022/01/01,Negeri Sembilan,P.133 Tampin,both,4
+2022/01/01,Negeri Sembilan,P.133 Tampin,female,41.9
+2022/01/01,Negeri Sembilan,P.133 Tampin,male,46.9
+2020/01/01,Melaka,P.134 Masjid Tanah,both,95.689
+2020/01/01,Melaka,P.134 Masjid Tanah,both,90.536
+2020/01/01,Melaka,P.134 Masjid Tanah,both,5.153
+2020/01/01,Melaka,P.134 Masjid Tanah,female,47.309
+2020/01/01,Melaka,P.134 Masjid Tanah,male,48.38
+2021/01/01,Melaka,P.134 Masjid Tanah,both,96.3
+2021/01/01,Melaka,P.134 Masjid Tanah,both,91.3
+2021/01/01,Melaka,P.134 Masjid Tanah,both,5
+2021/01/01,Melaka,P.134 Masjid Tanah,female,47.7
+2021/01/01,Melaka,P.134 Masjid Tanah,male,48.6
+2022/01/01,Melaka,P.134 Masjid Tanah,both,96.6
+2022/01/01,Melaka,P.134 Masjid Tanah,both,91.9
+2022/01/01,Melaka,P.134 Masjid Tanah,both,4.7
+2022/01/01,Melaka,P.134 Masjid Tanah,female,48
+2022/01/01,Melaka,P.134 Masjid Tanah,male,48.6
+2020/01/01,Melaka,P.135 Alor Gajah,both,171.073
+2020/01/01,Melaka,P.135 Alor Gajah,both,155.85
+2020/01/01,Melaka,P.135 Alor Gajah,both,15.223
+2020/01/01,Melaka,P.135 Alor Gajah,female,81.204
+2020/01/01,Melaka,P.135 Alor Gajah,male,89.869
+2021/01/01,Melaka,P.135 Alor Gajah,both,172.1
+2021/01/01,Melaka,P.135 Alor Gajah,both,157.3
+2021/01/01,Melaka,P.135 Alor Gajah,both,14.8
+2021/01/01,Melaka,P.135 Alor Gajah,female,81.8
+2021/01/01,Melaka,P.135 Alor Gajah,male,90.3
+2022/01/01,Melaka,P.135 Alor Gajah,both,172.7
+2022/01/01,Melaka,P.135 Alor Gajah,both,158.7
+2022/01/01,Melaka,P.135 Alor Gajah,both,13.9
+2022/01/01,Melaka,P.135 Alor Gajah,female,82.3
+2022/01/01,Melaka,P.135 Alor Gajah,male,90.3
+2020/01/01,Melaka,P.136 Tangga Batu,both,198.033
+2020/01/01,Melaka,P.136 Tangga Batu,both,187.981
+2020/01/01,Melaka,P.136 Tangga Batu,both,10.052
+2020/01/01,Melaka,P.136 Tangga Batu,female,92.261
+2020/01/01,Melaka,P.136 Tangga Batu,male,105.772
+2021/01/01,Melaka,P.136 Tangga Batu,both,199.2
+2021/01/01,Melaka,P.136 Tangga Batu,both,189.5
+2021/01/01,Melaka,P.136 Tangga Batu,both,9.8
+2021/01/01,Melaka,P.136 Tangga Batu,female,93
+2021/01/01,Melaka,P.136 Tangga Batu,male,106.3
+2022/01/01,Melaka,P.136 Tangga Batu,both,199.9
+2022/01/01,Melaka,P.136 Tangga Batu,both,190.7
+2022/01/01,Melaka,P.136 Tangga Batu,both,9.1
+2022/01/01,Melaka,P.136 Tangga Batu,female,93.5
+2022/01/01,Melaka,P.136 Tangga Batu,male,106.3
+2020/01/01,Melaka,P.137 Hang Tuah Jaya,both,183.693
+2020/01/01,Melaka,P.137 Hang Tuah Jaya,both,169.388
+2020/01/01,Melaka,P.137 Hang Tuah Jaya,both,14.305
+2020/01/01,Melaka,P.137 Hang Tuah Jaya,female,87.77
+2020/01/01,Melaka,P.137 Hang Tuah Jaya,male,95.923
+2021/01/01,Melaka,P.137 Hang Tuah Jaya,both,184.8
+2021/01/01,Melaka,P.137 Hang Tuah Jaya,both,170.8
+2021/01/01,Melaka,P.137 Hang Tuah Jaya,both,14
+2021/01/01,Melaka,P.137 Hang Tuah Jaya,female,88.4
+2021/01/01,Melaka,P.137 Hang Tuah Jaya,male,96.4
+2022/01/01,Melaka,P.137 Hang Tuah Jaya,both,185.4
+2022/01/01,Melaka,P.137 Hang Tuah Jaya,both,172.3
+2022/01/01,Melaka,P.137 Hang Tuah Jaya,both,13.1
+2022/01/01,Melaka,P.137 Hang Tuah Jaya,female,89
+2022/01/01,Melaka,P.137 Hang Tuah Jaya,male,96.4
+2020/01/01,Melaka,P.138 Kota Melaka,both,215.409
+2020/01/01,Melaka,P.138 Kota Melaka,both,200.06
+2020/01/01,Melaka,P.138 Kota Melaka,both,15.349
+2020/01/01,Melaka,P.138 Kota Melaka,female,102.679
+2020/01/01,Melaka,P.138 Kota Melaka,male,112.73
+2021/01/01,Melaka,P.138 Kota Melaka,both,216.7
+2021/01/01,Melaka,P.138 Kota Melaka,both,201.7
+2021/01/01,Melaka,P.138 Kota Melaka,both,15
+2021/01/01,Melaka,P.138 Kota Melaka,female,103.5
+2021/01/01,Melaka,P.138 Kota Melaka,male,113.3
+2022/01/01,Melaka,P.138 Kota Melaka,both,217.4
+2022/01/01,Melaka,P.138 Kota Melaka,both,203.3
+2022/01/01,Melaka,P.138 Kota Melaka,both,14.2
+2022/01/01,Melaka,P.138 Kota Melaka,female,104.1
+2022/01/01,Melaka,P.138 Kota Melaka,male,113.3
+2020/01/01,Melaka,P.139 Jasin,both,134.531
+2020/01/01,Melaka,P.139 Jasin,both,123.546
+2020/01/01,Melaka,P.139 Jasin,both,10.985
+2020/01/01,Melaka,P.139 Jasin,female,62.263
+2020/01/01,Melaka,P.139 Jasin,male,72.268
+2021/01/01,Melaka,P.139 Jasin,both,135.4
+2021/01/01,Melaka,P.139 Jasin,both,124.7
+2021/01/01,Melaka,P.139 Jasin,both,10.7
+2021/01/01,Melaka,P.139 Jasin,female,62.7
+2021/01/01,Melaka,P.139 Jasin,male,72.6
+2022/01/01,Melaka,P.139 Jasin,both,135.8
+2022/01/01,Melaka,P.139 Jasin,both,125.8
+2022/01/01,Melaka,P.139 Jasin,both,10
+2022/01/01,Melaka,P.139 Jasin,female,63.1
+2022/01/01,Melaka,P.139 Jasin,male,72.7
+2020/01/01,Johor,P.140 Segamat,both,76.011
+2020/01/01,Johor,P.140 Segamat,both,71.225
+2020/01/01,Johor,P.140 Segamat,both,4.786
+2020/01/01,Johor,P.140 Segamat,female,36.607
+2020/01/01,Johor,P.140 Segamat,male,39.404
+2021/01/01,Johor,P.140 Segamat,both,76.2
+2021/01/01,Johor,P.140 Segamat,both,71.7
+2021/01/01,Johor,P.140 Segamat,both,4.5
+2021/01/01,Johor,P.140 Segamat,female,36.8
+2021/01/01,Johor,P.140 Segamat,male,39.4
+2022/01/01,Johor,P.140 Segamat,both,76.3
+2022/01/01,Johor,P.140 Segamat,both,72.1
+2022/01/01,Johor,P.140 Segamat,both,4.1
+2022/01/01,Johor,P.140 Segamat,female,37.1
+2022/01/01,Johor,P.140 Segamat,male,39.2
+2020/01/01,Johor,P.141 Sekijang,both,79.347
+2020/01/01,Johor,P.141 Sekijang,both,75.894
+2020/01/01,Johor,P.141 Sekijang,both,3.453
+2020/01/01,Johor,P.141 Sekijang,female,38.248
+2020/01/01,Johor,P.141 Sekijang,male,41.099
+2021/01/01,Johor,P.141 Sekijang,both,79.6
+2021/01/01,Johor,P.141 Sekijang,both,76.3
+2021/01/01,Johor,P.141 Sekijang,both,3.2
+2021/01/01,Johor,P.141 Sekijang,female,38.5
+2021/01/01,Johor,P.141 Sekijang,male,41.1
+2022/01/01,Johor,P.141 Sekijang,both,79.6
+2022/01/01,Johor,P.141 Sekijang,both,76.6
+2022/01/01,Johor,P.141 Sekijang,both,3
+2022/01/01,Johor,P.141 Sekijang,female,38.7
+2022/01/01,Johor,P.141 Sekijang,male,40.9
+2020/01/01,Johor,P.142 Labis,both,42.404
+2020/01/01,Johor,P.142 Labis,both,39.002
+2020/01/01,Johor,P.142 Labis,both,3.402
+2020/01/01,Johor,P.142 Labis,female,19.707
+2020/01/01,Johor,P.142 Labis,male,22.697
+2021/01/01,Johor,P.142 Labis,both,42.5
+2021/01/01,Johor,P.142 Labis,both,39.3
+2021/01/01,Johor,P.142 Labis,both,3.2
+2021/01/01,Johor,P.142 Labis,female,19.8
+2021/01/01,Johor,P.142 Labis,male,22.7
+2022/01/01,Johor,P.142 Labis,both,42.5
+2022/01/01,Johor,P.142 Labis,both,39.6
+2022/01/01,Johor,P.142 Labis,both,3
+2022/01/01,Johor,P.142 Labis,female,19.9
+2022/01/01,Johor,P.142 Labis,male,22.6
+2020/01/01,Johor,P.143 Pagoh,both,95.202
+2020/01/01,Johor,P.143 Pagoh,both,83.657
+2020/01/01,Johor,P.143 Pagoh,both,11.545
+2020/01/01,Johor,P.143 Pagoh,female,41.864
+2020/01/01,Johor,P.143 Pagoh,male,53.338
+2021/01/01,Johor,P.143 Pagoh,both,95.4
+2021/01/01,Johor,P.143 Pagoh,both,84.6
+2021/01/01,Johor,P.143 Pagoh,both,10.8
+2021/01/01,Johor,P.143 Pagoh,female,42.2
+2021/01/01,Johor,P.143 Pagoh,male,53.3
+2022/01/01,Johor,P.143 Pagoh,both,95.5
+2022/01/01,Johor,P.143 Pagoh,both,85.5
+2022/01/01,Johor,P.143 Pagoh,both,10
+2022/01/01,Johor,P.143 Pagoh,female,42.4
+2022/01/01,Johor,P.143 Pagoh,male,53.1
+2020/01/01,Johor,P.144 Ledang,both,147.579
+2020/01/01,Johor,P.144 Ledang,both,141.228
+2020/01/01,Johor,P.144 Ledang,both,6.351
+2020/01/01,Johor,P.144 Ledang,female,71.28
+2020/01/01,Johor,P.144 Ledang,male,76.299
+2021/01/01,Johor,P.144 Ledang,both,148
+2021/01/01,Johor,P.144 Ledang,both,142
+2021/01/01,Johor,P.144 Ledang,both,5.9
+2021/01/01,Johor,P.144 Ledang,female,71.8
+2021/01/01,Johor,P.144 Ledang,male,76.2
+2022/01/01,Johor,P.144 Ledang,both,148.1
+2022/01/01,Johor,P.144 Ledang,both,142.6
+2022/01/01,Johor,P.144 Ledang,both,5.5
+2022/01/01,Johor,P.144 Ledang,female,72.1
+2022/01/01,Johor,P.144 Ledang,male,75.9
+2020/01/01,Johor,P.145 Bakri,both,135.179
+2020/01/01,Johor,P.145 Bakri,both,118.852
+2020/01/01,Johor,P.145 Bakri,both,16.327
+2020/01/01,Johor,P.145 Bakri,female,59.748
+2020/01/01,Johor,P.145 Bakri,male,75.431
+2021/01/01,Johor,P.145 Bakri,both,135.5
+2021/01/01,Johor,P.145 Bakri,both,120.1
+2021/01/01,Johor,P.145 Bakri,both,15.4
+2021/01/01,Johor,P.145 Bakri,female,60.2
+2021/01/01,Johor,P.145 Bakri,male,75.3
+2022/01/01,Johor,P.145 Bakri,both,135.6
+2022/01/01,Johor,P.145 Bakri,both,121.2
+2022/01/01,Johor,P.145 Bakri,both,14.4
+2022/01/01,Johor,P.145 Bakri,female,60.5
+2022/01/01,Johor,P.145 Bakri,male,75.2
+2020/01/01,Johor,P.146 Muar,both,100.265
+2020/01/01,Johor,P.146 Muar,both,92.569
+2020/01/01,Johor,P.146 Muar,both,7.696
+2020/01/01,Johor,P.146 Muar,female,46.806
+2020/01/01,Johor,P.146 Muar,male,53.459
+2021/01/01,Johor,P.146 Muar,both,100.5
+2021/01/01,Johor,P.146 Muar,both,93.3
+2021/01/01,Johor,P.146 Muar,both,7.2
+2021/01/01,Johor,P.146 Muar,female,47.1
+2021/01/01,Johor,P.146 Muar,male,53.4
+2022/01/01,Johor,P.146 Muar,both,100.6
+2022/01/01,Johor,P.146 Muar,both,93.9
+2022/01/01,Johor,P.146 Muar,both,6.7
+2022/01/01,Johor,P.146 Muar,female,47.4
+2022/01/01,Johor,P.146 Muar,male,53.2
+2020/01/01,Johor,P.147 Parit Sulong,both,82.399
+2020/01/01,Johor,P.147 Parit Sulong,both,79.248
+2020/01/01,Johor,P.147 Parit Sulong,both,3.151
+2020/01/01,Johor,P.147 Parit Sulong,female,39.392
+2020/01/01,Johor,P.147 Parit Sulong,male,43.007
+2021/01/01,Johor,P.147 Parit Sulong,both,82.6
+2021/01/01,Johor,P.147 Parit Sulong,both,79.7
+2021/01/01,Johor,P.147 Parit Sulong,both,2.9
+2021/01/01,Johor,P.147 Parit Sulong,female,39.7
+2021/01/01,Johor,P.147 Parit Sulong,male,43
+2022/01/01,Johor,P.147 Parit Sulong,both,82.7
+2022/01/01,Johor,P.147 Parit Sulong,both,80
+2022/01/01,Johor,P.147 Parit Sulong,both,2.7
+2022/01/01,Johor,P.147 Parit Sulong,female,39.9
+2022/01/01,Johor,P.147 Parit Sulong,male,42.8
+2020/01/01,Johor,P.148 Ayer Hitam,both,71.785
+2020/01/01,Johor,P.148 Ayer Hitam,both,69.117
+2020/01/01,Johor,P.148 Ayer Hitam,both,2.668
+2020/01/01,Johor,P.148 Ayer Hitam,female,33.949
+2020/01/01,Johor,P.148 Ayer Hitam,male,37.836
+2021/01/01,Johor,P.148 Ayer Hitam,both,72
+2021/01/01,Johor,P.148 Ayer Hitam,both,69.5
+2021/01/01,Johor,P.148 Ayer Hitam,both,2.5
+2021/01/01,Johor,P.148 Ayer Hitam,female,34.2
+2021/01/01,Johor,P.148 Ayer Hitam,male,37.8
+2022/01/01,Johor,P.148 Ayer Hitam,both,72
+2022/01/01,Johor,P.148 Ayer Hitam,both,69.7
+2022/01/01,Johor,P.148 Ayer Hitam,both,2.3
+2022/01/01,Johor,P.148 Ayer Hitam,female,34.4
+2022/01/01,Johor,P.148 Ayer Hitam,male,37.7
+2020/01/01,Johor,P.149 Sri Gading,both,175.154
+2020/01/01,Johor,P.149 Sri Gading,both,157.464
+2020/01/01,Johor,P.149 Sri Gading,both,17.69
+2020/01/01,Johor,P.149 Sri Gading,female,80.592
+2020/01/01,Johor,P.149 Sri Gading,male,94.562
+2021/01/01,Johor,P.149 Sri Gading,both,175.6
+2021/01/01,Johor,P.149 Sri Gading,both,159.1
+2021/01/01,Johor,P.149 Sri Gading,both,16.5
+2021/01/01,Johor,P.149 Sri Gading,female,81.2
+2021/01/01,Johor,P.149 Sri Gading,male,94.5
+2022/01/01,Johor,P.149 Sri Gading,both,175.7
+2022/01/01,Johor,P.149 Sri Gading,both,160.4
+2022/01/01,Johor,P.149 Sri Gading,both,15.3
+2022/01/01,Johor,P.149 Sri Gading,female,81.5
+2022/01/01,Johor,P.149 Sri Gading,male,94.2
+2020/01/01,Johor,P.150 Batu Pahat,both,166
+2020/01/01,Johor,P.150 Batu Pahat,both,159.314
+2020/01/01,Johor,P.150 Batu Pahat,both,6.686
+2020/01/01,Johor,P.150 Batu Pahat,female,79.796
+2020/01/01,Johor,P.150 Batu Pahat,male,86.204
+2021/01/01,Johor,P.150 Batu Pahat,both,166.4
+2021/01/01,Johor,P.150 Batu Pahat,both,160.2
+2021/01/01,Johor,P.150 Batu Pahat,both,6.2
+2021/01/01,Johor,P.150 Batu Pahat,female,80.3
+2021/01/01,Johor,P.150 Batu Pahat,male,86.1
+2022/01/01,Johor,P.150 Batu Pahat,both,166.5
+2022/01/01,Johor,P.150 Batu Pahat,both,160.8
+2022/01/01,Johor,P.150 Batu Pahat,both,5.8
+2022/01/01,Johor,P.150 Batu Pahat,female,80.7
+2022/01/01,Johor,P.150 Batu Pahat,male,85.8
+2020/01/01,Johor,P.151 Simpang Renggam,both,76.286
+2020/01/01,Johor,P.151 Simpang Renggam,both,65.935
+2020/01/01,Johor,P.151 Simpang Renggam,both,10.351
+2020/01/01,Johor,P.151 Simpang Renggam,female,33.239
+2020/01/01,Johor,P.151 Simpang Renggam,male,43.047
+2021/01/01,Johor,P.151 Simpang Renggam,both,76.5
+2021/01/01,Johor,P.151 Simpang Renggam,both,66.8
+2021/01/01,Johor,P.151 Simpang Renggam,both,9.7
+2021/01/01,Johor,P.151 Simpang Renggam,female,33.5
+2021/01/01,Johor,P.151 Simpang Renggam,male,43
+2022/01/01,Johor,P.151 Simpang Renggam,both,76.5
+2022/01/01,Johor,P.151 Simpang Renggam,both,67.5
+2022/01/01,Johor,P.151 Simpang Renggam,both,9
+2022/01/01,Johor,P.151 Simpang Renggam,female,33.6
+2022/01/01,Johor,P.151 Simpang Renggam,male,42.9
+2020/01/01,Johor,P.152 Kluang,both,183.855
+2020/01/01,Johor,P.152 Kluang,both,169.394
+2020/01/01,Johor,P.152 Kluang,both,14.461
+2020/01/01,Johor,P.152 Kluang,female,85.046
+2020/01/01,Johor,P.152 Kluang,male,98.809
+2021/01/01,Johor,P.152 Kluang,both,184.3
+2021/01/01,Johor,P.152 Kluang,both,170.8
+2021/01/01,Johor,P.152 Kluang,both,13.5
+2021/01/01,Johor,P.152 Kluang,female,85.6
+2021/01/01,Johor,P.152 Kluang,male,98.7
+2022/01/01,Johor,P.152 Kluang,both,184.5
+2022/01/01,Johor,P.152 Kluang,both,171.9
+2022/01/01,Johor,P.152 Kluang,both,12.5
+2022/01/01,Johor,P.152 Kluang,female,86
+2022/01/01,Johor,P.152 Kluang,male,98.4
+2020/01/01,Johor,P.153 Sembrong,both,63.621
+2020/01/01,Johor,P.153 Sembrong,both,54.652
+2020/01/01,Johor,P.153 Sembrong,both,8.969
+2020/01/01,Johor,P.153 Sembrong,female,26.163
+2020/01/01,Johor,P.153 Sembrong,male,37.458
+2021/01/01,Johor,P.153 Sembrong,both,63.8
+2021/01/01,Johor,P.153 Sembrong,both,55.4
+2021/01/01,Johor,P.153 Sembrong,both,8.4
+2021/01/01,Johor,P.153 Sembrong,female,26.4
+2021/01/01,Johor,P.153 Sembrong,male,37.4
+2022/01/01,Johor,P.153 Sembrong,both,63.8
+2022/01/01,Johor,P.153 Sembrong,both,56
+2022/01/01,Johor,P.153 Sembrong,both,7.8
+2022/01/01,Johor,P.153 Sembrong,female,26.5
+2022/01/01,Johor,P.153 Sembrong,male,37.4
+2020/01/01,Johor,P.154 Mersing,both,78.195
+2020/01/01,Johor,P.154 Mersing,both,74.072
+2020/01/01,Johor,P.154 Mersing,both,4.123
+2020/01/01,Johor,P.154 Mersing,female,36.256
+2020/01/01,Johor,P.154 Mersing,male,41.939
+2021/01/01,Johor,P.154 Mersing,both,78.4
+2021/01/01,Johor,P.154 Mersing,both,74.6
+2021/01/01,Johor,P.154 Mersing,both,3.8
+2021/01/01,Johor,P.154 Mersing,female,36.5
+2021/01/01,Johor,P.154 Mersing,male,41.9
+2022/01/01,Johor,P.154 Mersing,both,78.4
+2022/01/01,Johor,P.154 Mersing,both,74.9
+2022/01/01,Johor,P.154 Mersing,both,3.5
+2022/01/01,Johor,P.154 Mersing,female,36.7
+2022/01/01,Johor,P.154 Mersing,male,41.8
+2020/01/01,Johor,P.155 Tenggara,both,94.174
+2020/01/01,Johor,P.155 Tenggara,both,89.286
+2020/01/01,Johor,P.155 Tenggara,both,4.888
+2020/01/01,Johor,P.155 Tenggara,female,45.095
+2020/01/01,Johor,P.155 Tenggara,male,49.079
+2021/01/01,Johor,P.155 Tenggara,both,94.4
+2021/01/01,Johor,P.155 Tenggara,both,89.9
+2021/01/01,Johor,P.155 Tenggara,both,4.5
+2021/01/01,Johor,P.155 Tenggara,female,45.4
+2021/01/01,Johor,P.155 Tenggara,male,49
+2022/01/01,Johor,P.155 Tenggara,both,94.5
+2022/01/01,Johor,P.155 Tenggara,both,90.3
+2022/01/01,Johor,P.155 Tenggara,both,4.2
+2022/01/01,Johor,P.155 Tenggara,female,45.6
+2022/01/01,Johor,P.155 Tenggara,male,48.9
+2020/01/01,Johor,P.156 Kota Tinggi,both,57.377
+2020/01/01,Johor,P.156 Kota Tinggi,both,52.962
+2020/01/01,Johor,P.156 Kota Tinggi,both,4.415
+2020/01/01,Johor,P.156 Kota Tinggi,female,26.88
+2020/01/01,Johor,P.156 Kota Tinggi,male,30.497
+2021/01/01,Johor,P.156 Kota Tinggi,both,57.5
+2021/01/01,Johor,P.156 Kota Tinggi,both,53.4
+2021/01/01,Johor,P.156 Kota Tinggi,both,4.1
+2021/01/01,Johor,P.156 Kota Tinggi,female,27.1
+2021/01/01,Johor,P.156 Kota Tinggi,male,30.5
+2022/01/01,Johor,P.156 Kota Tinggi,both,57.6
+2022/01/01,Johor,P.156 Kota Tinggi,both,53.8
+2022/01/01,Johor,P.156 Kota Tinggi,both,3.8
+2022/01/01,Johor,P.156 Kota Tinggi,female,27.2
+2022/01/01,Johor,P.156 Kota Tinggi,male,30.4
+2020/01/01,Johor,P.157 Pengerang,both,70.831
+2020/01/01,Johor,P.157 Pengerang,both,66.327
+2020/01/01,Johor,P.157 Pengerang,both,4.504
+2020/01/01,Johor,P.157 Pengerang,female,31.985
+2020/01/01,Johor,P.157 Pengerang,male,38.846
+2021/01/01,Johor,P.157 Pengerang,both,71
+2021/01/01,Johor,P.157 Pengerang,both,66.8
+2021/01/01,Johor,P.157 Pengerang,both,4.2
+2021/01/01,Johor,P.157 Pengerang,female,32.2
+2021/01/01,Johor,P.157 Pengerang,male,38.8
+2022/01/01,Johor,P.157 Pengerang,both,71.1
+2022/01/01,Johor,P.157 Pengerang,both,67.2
+2022/01/01,Johor,P.157 Pengerang,both,3.9
+2022/01/01,Johor,P.157 Pengerang,female,32.4
+2022/01/01,Johor,P.157 Pengerang,male,38.7
+2020/01/01,Johor,P.158 Tebrau,both,475.267
+2020/01/01,Johor,P.158 Tebrau,both,440.886
+2020/01/01,Johor,P.158 Tebrau,both,34.381
+2020/01/01,Johor,P.158 Tebrau,female,221.934
+2020/01/01,Johor,P.158 Tebrau,male,253.333
+2021/01/01,Johor,P.158 Tebrau,both,476.5
+2021/01/01,Johor,P.158 Tebrau,both,444.4
+2021/01/01,Johor,P.158 Tebrau,both,32.1
+2021/01/01,Johor,P.158 Tebrau,female,223.5
+2021/01/01,Johor,P.158 Tebrau,male,253
+2022/01/01,Johor,P.158 Tebrau,both,476.8
+2022/01/01,Johor,P.158 Tebrau,both,447.1
+2022/01/01,Johor,P.158 Tebrau,both,29.7
+2022/01/01,Johor,P.158 Tebrau,female,224.5
+2022/01/01,Johor,P.158 Tebrau,male,252.3
+2020/01/01,Johor,P.159 Pasir Gudang,both,360.621
+2020/01/01,Johor,P.159 Pasir Gudang,both,332.151
+2020/01/01,Johor,P.159 Pasir Gudang,both,28.47
+2020/01/01,Johor,P.159 Pasir Gudang,female,166.294
+2020/01/01,Johor,P.159 Pasir Gudang,male,194.327
+2021/01/01,Johor,P.159 Pasir Gudang,both,361.5
+2021/01/01,Johor,P.159 Pasir Gudang,both,335
+2021/01/01,Johor,P.159 Pasir Gudang,both,26.6
+2021/01/01,Johor,P.159 Pasir Gudang,female,167.4
+2021/01/01,Johor,P.159 Pasir Gudang,male,194.1
+2022/01/01,Johor,P.159 Pasir Gudang,both,361.8
+2022/01/01,Johor,P.159 Pasir Gudang,both,337.2
+2022/01/01,Johor,P.159 Pasir Gudang,both,24.6
+2022/01/01,Johor,P.159 Pasir Gudang,female,168.2
+2022/01/01,Johor,P.159 Pasir Gudang,male,193.6
+2020/01/01,Johor,P.160 Johor Bahru,both,177.823
+2020/01/01,Johor,P.160 Johor Bahru,both,165.082
+2020/01/01,Johor,P.160 Johor Bahru,both,12.741
+2020/01/01,Johor,P.160 Johor Bahru,female,85.584
+2020/01/01,Johor,P.160 Johor Bahru,male,92.239
+2021/01/01,Johor,P.160 Johor Bahru,both,178.3
+2021/01/01,Johor,P.160 Johor Bahru,both,166.4
+2021/01/01,Johor,P.160 Johor Bahru,both,11.9
+2021/01/01,Johor,P.160 Johor Bahru,female,86.2
+2021/01/01,Johor,P.160 Johor Bahru,male,92.1
+2022/01/01,Johor,P.160 Johor Bahru,both,178.4
+2022/01/01,Johor,P.160 Johor Bahru,both,167.4
+2022/01/01,Johor,P.160 Johor Bahru,both,11
+2022/01/01,Johor,P.160 Johor Bahru,female,86.6
+2022/01/01,Johor,P.160 Johor Bahru,male,91.8
+2020/01/01,Johor,P.161 Pulai,both,291.876
+2020/01/01,Johor,P.161 Pulai,both,273.983
+2020/01/01,Johor,P.161 Pulai,both,17.893
+2020/01/01,Johor,P.161 Pulai,female,140.006
+2020/01/01,Johor,P.161 Pulai,male,151.87
+2021/01/01,Johor,P.161 Pulai,both,292.6
+2021/01/01,Johor,P.161 Pulai,both,275.9
+2021/01/01,Johor,P.161 Pulai,both,16.7
+2021/01/01,Johor,P.161 Pulai,female,140.9
+2021/01/01,Johor,P.161 Pulai,male,151.7
+2022/01/01,Johor,P.161 Pulai,both,292.8
+2022/01/01,Johor,P.161 Pulai,both,277.4
+2022/01/01,Johor,P.161 Pulai,both,15.5
+2022/01/01,Johor,P.161 Pulai,female,141.7
+2022/01/01,Johor,P.161 Pulai,male,151.2
+2020/01/01,Johor,P.162 Iskandar Puteri,both,447.697
+2020/01/01,Johor,P.162 Iskandar Puteri,both,417.166
+2020/01/01,Johor,P.162 Iskandar Puteri,both,30.531
+2020/01/01,Johor,P.162 Iskandar Puteri,female,211.885
+2020/01/01,Johor,P.162 Iskandar Puteri,male,235.812
+2021/01/01,Johor,P.162 Iskandar Puteri,both,448.8
+2021/01/01,Johor,P.162 Iskandar Puteri,both,420.3
+2021/01/01,Johor,P.162 Iskandar Puteri,both,28.5
+2021/01/01,Johor,P.162 Iskandar Puteri,female,213.3
+2021/01/01,Johor,P.162 Iskandar Puteri,male,235.5
+2022/01/01,Johor,P.162 Iskandar Puteri,both,449.2
+2022/01/01,Johor,P.162 Iskandar Puteri,both,422.8
+2022/01/01,Johor,P.162 Iskandar Puteri,both,26.4
+2022/01/01,Johor,P.162 Iskandar Puteri,female,214.4
+2022/01/01,Johor,P.162 Iskandar Puteri,male,234.8
+2020/01/01,Johor,P.163 Kulai,both,287.404
+2020/01/01,Johor,P.163 Kulai,both,241.054
+2020/01/01,Johor,P.163 Kulai,both,46.35
+2020/01/01,Johor,P.163 Kulai,female,129.936
+2020/01/01,Johor,P.163 Kulai,male,157.468
+2021/01/01,Johor,P.163 Kulai,both,288.1
+2021/01/01,Johor,P.163 Kulai,both,244.3
+2021/01/01,Johor,P.163 Kulai,both,43.8
+2021/01/01,Johor,P.163 Kulai,female,130.9
+2021/01/01,Johor,P.163 Kulai,male,157.3
+2022/01/01,Johor,P.163 Kulai,both,288.3
+2022/01/01,Johor,P.163 Kulai,both,247.2
+2022/01/01,Johor,P.163 Kulai,both,41.1
+2022/01/01,Johor,P.163 Kulai,female,131.5
+2022/01/01,Johor,P.163 Kulai,male,156.9
+2020/01/01,Johor,P.164 Pontian,both,81.778
+2020/01/01,Johor,P.164 Pontian,both,77.47
+2020/01/01,Johor,P.164 Pontian,both,4.308
+2020/01/01,Johor,P.164 Pontian,female,38.956
+2020/01/01,Johor,P.164 Pontian,male,42.822
+2021/01/01,Johor,P.164 Pontian,both,82
+2021/01/01,Johor,P.164 Pontian,both,78
+2021/01/01,Johor,P.164 Pontian,both,4
+2021/01/01,Johor,P.164 Pontian,female,39.2
+2021/01/01,Johor,P.164 Pontian,male,42.8
+2022/01/01,Johor,P.164 Pontian,both,82
+2022/01/01,Johor,P.164 Pontian,both,78.4
+2022/01/01,Johor,P.164 Pontian,both,3.7
+2022/01/01,Johor,P.164 Pontian,female,39.4
+2022/01/01,Johor,P.164 Pontian,male,42.6
+2020/01/01,Johor,P.165 Tanjung Piai,both,91.54
+2020/01/01,Johor,P.165 Tanjung Piai,both,82.513
+2020/01/01,Johor,P.165 Tanjung Piai,both,9.027
+2020/01/01,Johor,P.165 Tanjung Piai,female,41.115
+2020/01/01,Johor,P.165 Tanjung Piai,male,50.425
+2021/01/01,Johor,P.165 Tanjung Piai,both,91.8
+2021/01/01,Johor,P.165 Tanjung Piai,both,83.3
+2021/01/01,Johor,P.165 Tanjung Piai,both,8.4
+2021/01/01,Johor,P.165 Tanjung Piai,female,41.4
+2021/01/01,Johor,P.165 Tanjung Piai,male,50.4
+2022/01/01,Johor,P.165 Tanjung Piai,both,91.8
+2022/01/01,Johor,P.165 Tanjung Piai,both,84
+2022/01/01,Johor,P.165 Tanjung Piai,both,7.8
+2022/01/01,Johor,P.165 Tanjung Piai,female,41.6
+2022/01/01,Johor,P.165 Tanjung Piai,male,50.2
