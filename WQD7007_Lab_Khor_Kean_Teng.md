@@ -58,7 +58,7 @@ I will download the `Set09.xlsx`. I need to convert it to CSV format so that it 
 
 The data is already is HDFS:
 
-![alt text](image-6.png)
+![alt text](public/image-6.png)
 
 Now let's work with the data with Hive where we clean it and preprocess it.
 
@@ -140,9 +140,9 @@ FROM parliamentary_constituencies;
 ```
 This is the output of the cleaned data:
 
-![alt text](image.png)
+![alt text](public/image.png)
 
-![alt text](image-1.png)
+![alt text](public/image-1.png)
 
 ## Question 2
 
@@ -163,7 +163,7 @@ ORDER BY total_population_thousands DESC
 LIMIT 1;
 ```
 
-![alt text](image-2.png)
+![alt text](public/image-2.png)
 
 ### Part B
 
@@ -181,7 +181,7 @@ GROUP BY YEAR(record_date)
 ORDER BY total_population_thousands DESC
 LIMIT 1;
 ```
-![alt text](image-3.png)
+![alt text](public/image-3.png)
 
 
 ### Part C
@@ -201,7 +201,7 @@ ORDER BY total_population_thousands ASC
 LIMIT 5;
 ```
 
-![alt text](image-4.png)
+![alt text](public/image-4.png)
 
 ### Part D
 
@@ -232,7 +232,7 @@ ORDER BY gender_contrast DESC
 LIMIT 10;
 ```
 
-![alt text](image-5.png)
+![alt text](public/image-5.png)
 
 ## Part 2
 
@@ -250,7 +250,7 @@ powershell -Command "Invoke-WebRequest -Uri 'https://www.gutenberg.org/cache/epu
 
 We can see the file is in the directory now:
 
-![alt text](image-7.png)
+![alt text](public/image-7.png)
 
 
 ### Question 2
@@ -267,7 +267,7 @@ hdfs dfs -put /keanteng/data/gutenberg_text.txt /keanteng/data/input
 hdfs dfs -ls /keanteng/data/input
 ```
 
-![alt text](image-8.png)
+![alt text](public/image-8.png)
 
 
 Now run the MapReduce job to count the words:
@@ -278,13 +278,13 @@ hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-*.jar w
 
 We can see the job is success:
 
-![alt text](image-9.png)
+![alt text](public/image-9.png)
 
 We can see the output:
 
-![alt text](image-10.png)
+![alt text](public/image-10.png)
 
-![alt text](image-11.png)
+![alt text](public/image-11.png)
 
 ## Question 3
 
@@ -319,7 +319,7 @@ ORDER BY word ASC
 LIMIT 5;
 ```
 
-![alt text](image-12.png)
+![alt text](public/image-12.png)
 
 Now for the 10 words with the lowest counts in descending order:
 
@@ -333,7 +333,7 @@ LIMIT 10;
 
 This is the output:
 
-![alt text](image-13.png)
+![alt text](public/image-13.png)
 
 ### Question 4
 
@@ -351,7 +351,7 @@ sed 's/[^a-z ]//g' | \
 sed 's/  */ /g' > /keanteng/data/gutenberg_cleaned.txt
 ```
 
-![alt text](image-14.png)
+![alt text](public/image-14.png)
 
 Now we can repeat the steps in Question 2 and 3:
 
@@ -360,7 +360,7 @@ hdfs dfs -put /keanteng/data/gutenberg_cleaned.txt /keanteng/data/input2
 hdfs dfs -ls /keanteng/data/input2
 ```
 
-![alt text](image-15.png)
+![alt text](public/image-15.png)
 
 Now run the MapReduce job again:
 
@@ -368,9 +368,9 @@ Now run the MapReduce job again:
 hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-*.jar wordcount /keanteng/data/input2 keanteng/data/output2
 ```
 
-![alt text](image-16.png)
+![alt text](public/image-16.png)
 
-![alt text](image-17.png)
+![alt text](public/image-17.png)
 
 Now we can load the results into Hive:
 
@@ -402,7 +402,7 @@ ORDER BY word ASC
 LIMIT 5;
 ```
 
-![alt text](image-18.png)
+![alt text](public/image-18.png)
 
 Now for the 10 words with the lowest counts in descending order:
 
@@ -414,7 +414,7 @@ ORDER BY count ASC, word DESC
 LIMIT 10;
 ```
 
-![alt text](image-19.png)
+![alt text](public/image-19.png)
 
 
 # Comparing Results:
