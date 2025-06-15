@@ -6,6 +6,18 @@
 
 The lab test is designed to assess your understanding of data cleaning and transformation using Hive. You will be working with a dataset where you are performing various data cleaning operations, and generating insights from the data.
 
+## Using This Repository
+
+- Load the repository into your local environment.
+
+```bash
+git clone https://github.com/keanteng/wqd7007-lab-test
+```
+
+- To produce the report make sure you have pandoc installed. You can download the latest distribution from [Pandoc's GitHub](https://github.com/jgm/pandoc/releases/tag/3.7.0.2).
+
+- Also, make sure you have Docker installed on your machine. You can download it from [Docker's official website](https://www.docker.com/products/docker-desktop).
+
 ## Setup Hive on Docker
 
 ```bash
@@ -39,6 +51,8 @@ hive
 
 ## Docker Extra
 
+Some useful Docker commands to manage your Hive container:
+
 ```bash
 # start the container
 docker start hive-server
@@ -53,6 +67,9 @@ docker exec -it hive-server bash
 docker ps
 ```
 ## Further Usage
+
+What about cleaning up your Docker environment? Here are some commands to help you manage your Docker containers and images:
+
 ```bash
 # remove a container
 docker rm hive-server
